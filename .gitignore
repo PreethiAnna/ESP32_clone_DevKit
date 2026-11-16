@@ -1,0 +1,4 @@
+fp-info-cache
+*.kicad_prl
+ESP32_clone-backups/*
+ESP32_cloneGerber/*

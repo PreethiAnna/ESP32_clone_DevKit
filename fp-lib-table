@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-WROOM-32")(type "KiCad")(uri "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/ESP32-WROOM-32")(options "")(descr ""))
+  (lib (name "B3S-1000P")(type "KiCad")(uri "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/B3S-1000P")(options "")(descr ""))
+  (lib (name "CP2102N-A01-GQFN28")(type "KiCad")(uri "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/CP2102N-A01-GQFN28")(options "")(descr ""))
+  (lib (name "MMSS8050-H-TP")(type "KiCad")(uri "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/MMSS8050-H-TP")(options "")(descr ""))
+)

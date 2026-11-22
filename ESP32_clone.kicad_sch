@@ -2650,16 +2650,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/ESP32-WROOM-32_Espressif_Systems.pdf"
+			(property "Description" "Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Antenna Not Included, U.FL Surface Mount"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2669,7 +2660,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Antenna Not Included, U.FL Surface Mount"
+			(property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/ESP32-WROOM-32_Espressif_Systems.pdf"
 				(at 0 0 0)
 				(effects
 					(font

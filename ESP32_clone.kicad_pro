@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.33,
+          "width": 1.33
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|47069250|121750000|c5e9df4c-bf03-4536-a569-b9e1406485e9|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|55458500|121240000|0181d007-14ea-42e6-8b22-d9d9d3395ace|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|55587500|81850000|bb0e4c17-5df0-4d03-ac3d-604f5aad7a4c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|63847750|121800000|42b4ddfa-e96e-404a-be6e-eaf7279c421c|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -73,7 +78,7 @@
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
-        "extra_footprint": "warning",
+        "extra_footprint": "ignore",
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
@@ -90,7 +95,7 @@
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
-        "missing_footprint": "warning",
+        "missing_footprint": "ignore",
         "net_conflict": "warning",
         "npth_inside_courtyard": "ignore",
         "padstack": "warning",
@@ -559,7 +564,7 @@
         "pattern": "/V*"
       },
       {
-        "netclass": "Power",
+        "netclass": "GPIO",
         "pattern": "GND"
       }
     ]

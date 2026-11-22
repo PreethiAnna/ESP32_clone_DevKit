@@ -790,9 +790,9 @@
 			(pintype "passive")
 			(uuid "ca9b56e1-a3fc-4649-a884-8ffd0c69cf33")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-AB_Molex_47590-0001.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Molex_47346-0001.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 2 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1091,7 +1091,7 @@
 			(pintype "passive")
 			(uuid "d44600ea-ef9a-4414-b666-45184d4ff8bb")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3S-1000.wrl"
+		(model "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/B3S-1000P/B3S-1000P (step)/b3s-1000p.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1099,7 +1099,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -2526,6 +2526,17 @@
 			(pintype "passive")
 			(solder_mask_margin 0.07)
 			(uuid "8a5a6baf-d0f6-40ee-8066-deea8e52ac36")
+		)
+		(model "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/MMSS8050-H-TP/MMSS8050-H-TP.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_01005_0402Metric"
@@ -5335,7 +5346,7 @@
 			(pintype "passive")
 			(uuid "f9a9085b-345e-4db3-8845-f736045b8dd7")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3S-1000.wrl"
+		(model "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/B3S-1000P/B3S-1000P (step)/b3s-1000p.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5343,7 +5354,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -6329,6 +6340,17 @@
 				)
 			)
 		)
+		(model "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/ESP32-WROOM-32/ESP32-WROOM-32.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "digikey-footprints:SOT-23-3"
 		(layer "F.Cu")
@@ -6640,6 +6662,17 @@
 			(pintype "passive")
 			(solder_mask_margin 0.07)
 			(uuid "8fbc6a54-1e83-45f0-9297-3db53b6fed40")
+		)
+		(model "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/MMSS8050-H-TP/MMSS8050-H-TP.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_01005_0402Metric"
@@ -9716,7 +9749,7 @@
 			(zone_connect 2)
 			(uuid "af4087cd-5f59-4af8-baad-decfc58f8d9c")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm.wrl"
+		(model "C:/Users/preethianna/OneDrive/Documents/KiCad/Pi_lib/CP2102N-A01-GQFN28/CP2102N-A01-GQFN28.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9724,7 +9757,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)

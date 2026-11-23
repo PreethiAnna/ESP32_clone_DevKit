@@ -10914,12 +10914,12 @@
 	(symbol
 		(lib_id "MMSS8050-H-TP:MMSS8050-H-TP")
 		(at 57.15 113.03 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d20baf33-8814-4bc5-a8d6-28df5b9e4a37")
 		(property "Reference" "Q2"
 			(at 60.96 111.7599 0)
@@ -11219,7 +11219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6cbb21e-5ced-4396-8030-31e7157a124b")
-		(property "Reference" "U3"
+		(property "Reference" "MOD1"
 			(at 242.57 26.67 0)
 			(effects
 				(font
@@ -11504,7 +11504,7 @@
 		(instances
 			(project ""
 				(path "/d5cd446d-10f4-45d5-81f7-ad3648636cb2"
-					(reference "U3")
+					(reference "MOD1")
 					(unit 1)
 				)
 			)

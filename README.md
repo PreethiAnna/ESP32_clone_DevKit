@@ -1,4 +1,4 @@
-It is a 4-layer ESP32 development module.
+ESP32 clone project is a 4-layer ESP32 development module.
 It is a clone of ESP32 devkitc v4.
 
 
